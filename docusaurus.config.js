@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ドラゴンホース(Dragon Horse)',
   tagline: '楽しいキャンペーンを',
-  url: 'https://www.google.co.jp',
+  url: 'https://wifecooky.github.io/dragonhorse_docs',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
