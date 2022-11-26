@@ -7,19 +7,19 @@ const FeatureList = [
   {
     title: 'テント・タープ類',
     image: require('@site/static/images/tent.png').default,
-    link: 'https://wifecooky.github.io/dragonhorse_docs/docs/tents',
+    link: '/dragonhorse_docs/docs/tents',
     description: <></>,
   },
   {
     title: 'クッカー類',
     image: require('@site/static/images/cooker.png').default,
-    link: 'https://wifecooky.github.io/dragonhorse_docs/docs/cookers',
+    link: '/dragonhorse_docs/docs/cookers',
     description: <></>,
   },
   {
     title: 'テーブル・椅子類',
     image: require('@site/static/images/table.png').default,
-    link: 'https://wifecooky.github.io/dragonhorse_docs/docs/tables',
+    link: '/dragonhorse_docs/docs/tables',
     description: <></>,
   },
 ];
