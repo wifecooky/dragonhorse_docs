@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspicetify_docs=self.webpackChunkspicetify_docs||[]).push([[631],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/first-blog-post"}]}')}}]);

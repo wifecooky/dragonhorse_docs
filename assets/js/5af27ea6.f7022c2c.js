@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspicetify_docs=self.webpackChunkspicetify_docs||[]).push([[240],{7169:e=>{e.exports=JSON.parse('{"permalink":"/dragonhorse_docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
