@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.google.co.jp/blog</id>
+    <title>ドラゴンホース(Dragon Horse) Blog</title>
+    <updated>2022-11-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.google.co.jp/blog"/>
+    <subtitle>ドラゴンホース(Dragon Horse) Blog</subtitle>
+    <icon>https://www.google.co.jp/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>first-blog-post</id>
+        <link href="https://www.google.co.jp/blog/first-blog-post"/>
+        <updated>2022-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/logo-d516deed470b129a1e249f37659dc1d2.png" width="120" height="120" class="img_ev3q"></p>]]></content>
+    </entry>
+</feed>

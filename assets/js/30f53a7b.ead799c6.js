@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspicetify_docs=self.webpackChunkspicetify_docs||[]).push([[498],{4377:e=>{e.exports=JSON.parse('{"title":"\u30c6\u30fc\u30d6\u30eb\u985e","description":"All Table","slug":"/tables","permalink":"/docs/tables","navigation":{"previous":{"title":"Test","permalink":"/docs/cookers/"},"next":{"title":"test","permalink":"/docs/tables/"}}}')}}]);
