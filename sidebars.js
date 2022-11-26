@@ -15,55 +15,38 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   sidebar: [
-    'getting-started',
+    'products',
     {
       type: 'category',
-      label: 'Advanced Usage',
+      label: 'テント・タープ類',
       link: {
         type: 'generated-index',
-        description: 'A guide about advanced usage of Spicetify and venturing outside of the Spicetify Marketplace.',
-        slug: '/advanced-usage',
+        description: 'All Tent & Tarp',
+        slug: '/tents',
       },
-      items: [
-        'advanced-usage/installation',
-        'advanced-usage/uninstallation',
-        'advanced-usage/command-line-interface',
-        'advanced-usage/themes',
-        'advanced-usage/extensions',
-        'advanced-usage/custom-apps',
-      ],
+      items: ['tents/tarp'],
     },
     {
       type: 'category',
-      label: 'Development',
+      label: 'クッカー類',
       link: {
         type: 'generated-index',
-        description: "Let's learn about how to contribute to the Spicetify community!",
-        slug: '/development',
+        description: 'All Cooker',
+        slug: '/cookers',
       },
-      items: [
-        'development/compiling',
-        'development/themes',
-        'development/custom-apps',
-        'development/js-modules',
-        'development/spotify-cli-flags',
-        {
-          type: 'category',
-          label: 'Spicetify Creator',
-          link: {
-            type: 'generated-index',
-            description: 'The easy way to create extensions and custom apps!',
-            slug: '/development/spicetify-creator',
-          },
-          items: [
-            'development/spicetify-creator/the-basics',
-            'development/spicetify-creator/create-extensions',
-            'development/spicetify-creator/create-custom-apps',
-            'development/spicetify-creator/building-and-testing',
-          ],
-        },
-      ],
+      items: ['cookers/cooker'],
     },
+    {
+      type: 'category',
+      label: 'テーブル類',
+      link: {
+        type: 'generated-index',
+        description: 'All Table',
+        slug: '/tables',
+      },
+      items: ['tables/table'],
+    },
+    'about',
     'faq',
   ],
 };
